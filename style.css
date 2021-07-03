@@ -1,0 +1,19 @@
+h1{
+    color: rgb(62, 177, 114);
+    background-color: rgb(35, 11, 61);
+    padding: 5px;
+    border: 2px solid gold;
+    text-align: center;
+}
+h3{
+    color: chocolate;
+}
+p{
+    text-align: justify;
+}
+div{
+    background-color: rgba(91, 189, 104, 0.781);
+    color: rgb(31, 2, 53);
+    padding: 4px;
+    border: 2px solid tomato;
+}
